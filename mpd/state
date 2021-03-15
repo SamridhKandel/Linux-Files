@@ -1,0 +1,35 @@
+sw_volume: 98
+audio_device_state:1:mpd alsamixer-output
+audio_device_state:1:toggle_visualizer
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Dayglow - Can I Call You Tonight_.flac
+1:Listerine.mp3
+2:Dayglow - Hot Rod.flac
+3:Current Blue - Los Santos.mp3
+4:Dayglow - Fuzzybrain.flac
+5:Dayglow - Listerine.flac
+6:I Hate Me Too.mp3
+7:Dayglow - Run the World!!!.flac
+8:Dayglow - Dear Friend,.flac
+9:Dayglow - Junior Varsity.flac
+10:Still Woozy - Habit.flac
+11:Tribal Rain - Narisawna.flac
+12:Tyler, The Creator - See You Again (feat. Kali Uchis).flac
+13:Boulevard of Broken Dreams.mp3
+14:Dayglow - False Direction.flac
+15:Dayglow - Nicknames.flac
+16:XO.mp3
+17:Current Blue - Six Speed.mp3
+18:I Thought I Died Inside.mp3
+19:Tribal Rain - Bhanai.flac
+20:Current Blue - Los Santos (feat. Britton Rauscher) (Britton Rauscher Remix).mp3
+21:Leat'eq - Tokyo.flac
+playlist_end

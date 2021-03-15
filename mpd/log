@@ -1,0 +1,84 @@
+Mar 08 08:04 : exception: Failed to open '/home/notfamous/.config/mpd/state': No such file or directory
+Mar 08 08:04 : exception: Failed to access /home/notfamous/Music: No such file or directory
+Mar 08 08:11 : update: added /I Thought I Died Inside.mp3
+Mar 08 08:11 : update: added /Boulevard of Broken Dreams.mp3
+Mar 08 08:11 : update: added /Listerine.mp3
+Mar 08 08:11 : update: added /I Hate Me Too.mp3
+Mar 08 08:11 : update: added /XO.mp3
+Mar 08 08:21 : player: played "Listerine.mp3"
+Mar 08 09:40 : exception: Failed to flush filter on "mpd alsamixer-output" (alsa): snd_pcm_writei() failed: Broken pipe
+Mar 08 09:40 : player: played "Listerine.mp3"
+Mar 08 09:49 : player: played "I Hate Me Too.mp3"
+Mar 08 12:14 : player: played "Listerine.mp3"
+Mar 08 12:14 : player: played "Listerine.mp3"
+Mar 08 12:14 : player: played "Listerine.mp3"
+Mar 08 12:14 : player: played "Listerine.mp3"
+Mar 08 12:15 : player: played "Listerine.mp3"
+Mar 08 13:01 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 13:01 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 13:01 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 13:01 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 13:01 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 14:24 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 14:24 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 14:24 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 14:25 : update: added /Current Blue - Six Speed.mp3
+Mar 08 14:25 : update: added /Dayglow - Can I Call You Tonight_.flac
+Mar 08 14:25 : update: added /Current Blue - Los Santos (feat. Britton Rauscher) (Britton Rauscher Remix).mp3
+Mar 08 14:25 : update: added /Current Blue - Los Santos.mp3
+Mar 08 14:28 : player: played "Dayglow - Can I Call You Tonight_.flac"
+Mar 08 14:52 : player: played "Current Blue - Los Santos (feat. Britton Rauscher) (Britton Rauscher Remix).mp3"
+Mar 08 14:54 : player: played "Dayglow - Can I Call You Tonight_.flac"
+Mar 08 14:54 : exception: Failed to commit /home/notfamous/.config/mpd/state: File exists
+Mar 08 14:54 : player: played "Boulevard of Broken Dreams.mp3"
+Mar 08 21:00 : player: played "Dayglow - Can I Call You Tonight_.flac"
+Mar 10 20:02 : player: played "Dayglow - Can I Call You Tonight_.flac"
+Mar 10 20:04 : player: played "Current Blue - Six Speed.mp3"
+Mar 10 20:08 : player: played "Listerine.mp3"
+Mar 10 20:09 : update: added /Dayglow - Hot Rod.flac
+Mar 10 20:09 : update: added /Dayglow - Listerine.flac
+Mar 10 20:12 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Mar 10 20:12 : player: played "Dayglow - Hot Rod.flac"
+Mar 10 20:13 : update: updating /Dayglow - Listerine.flac
+Mar 10 20:13 : update: added /Dayglow - Fuzzybrain.flac
+Mar 10 20:13 : update: added /Dayglow - False Direction.flac
+Mar 10 20:16 : player: played "I Hate Me Too.mp3"
+Mar 10 20:16 : update: updating /Dayglow - False Direction.flac
+Mar 10 20:20 : player: played "Dayglow - Fuzzybrain.flac"
+Mar 10 20:21 : update: added /Dayglow - Junior Varsity.flac
+Mar 10 20:21 : update: added /Dayglow - Run the World!!!.flac
+Mar 10 20:21 : update: added /Dayglow - Fair Game.flac
+Mar 10 20:21 : update: updating /Dayglow - False Direction.flac
+Mar 10 20:21 : update: added /Dayglow - Dear Friend,.flac
+Mar 10 20:24 : player: played "Dayglow - Run the World!!!.flac"
+Mar 10 20:24 : update: added /Dayglow - Nicknames.flac
+Mar 10 20:28 : player: played "Dayglow - Junior Varsity.flac"
+Mar 10 20:29 : player: played "Dayglow - Junior Varsity.flac"
+Mar 10 20:31 : player: played "Current Blue - Los Santos.mp3"
+Mar 10 20:33 : update: added /Still Woozy - Habit.flac
+Mar 10 20:38 : player: played "Current Blue - Los Santos (feat. Britton Rauscher) (Britton Rauscher Remix).mp3"
+Mar 11 12:54 : update: added /Tyler, The Creator - See You Again (feat. Kali Uchis).flac
+Mar 11 12:54 : update: added /Tribal Rain - Narisawna.flac
+Mar 11 12:54 : update: added /Tribal Rain - Bhanai.flac
+Mar 11 13:59 : player: played "Dayglow - Run the World!!!.flac"
+Mar 11 14:01 : player: played "Dayglow - Dear Friend,.flac"
+Mar 11 14:09 : player: played "Dayglow - Junior Varsity.flac"
+Mar 11 15:53 : player: played "Tribal Rain - Bhanai.flac"
+Mar 11 15:56 : player: played "Current Blue - Los Santos (feat. Britton Rauscher) (Britton Rauscher Remix).mp3"
+Mar 11 15:57 : player: played "Tribal Rain - Narisawna.flac"
+Mar 11 15:58 : player: played "Tribal Rain - Narisawna.flac"
+Mar 11 15:58 : player: played "Tyler, The Creator - See You Again (feat. Kali Uchis).flac"
+Mar 11 20:07 : player: played "Tribal Rain - Bhanai.flac"
+Mar 11 20:11 : player: played "Tribal Rain - Bhanai.flac"
+Mar 13 16:53 : player: played "Still Woozy - Habit.flac"
+Mar 13 16:55 : player: played "I Thought I Died Inside.mp3"
+Mar 13 18:20 : update: added /Leat'eq - Tokyo.flac
+Mar 13 18:23 : player: played "Leat'eq - Tokyo.flac"
+Mar 13 18:27 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Mar 13 18:27 : player: played "Leat'eq - Tokyo.flac"
+Mar 14 19:03 : player: played "Leat'eq - Tokyo.flac"
+Mar 14 19:49 : player: played "Leat'eq - Tokyo.flac"
+Mar 14 21:58 : player: played "Dayglow - Can I Call You Tonight_.flac"
+Mar 15 09:08 : player: played "Leat'eq - Tokyo.flac"
+Mar 15 09:11 : player: played "Leat'eq - Tokyo.flac"
+Mar 15 09:15 : player: played "Leat'eq - Tokyo.flac"
